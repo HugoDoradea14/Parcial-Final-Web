@@ -6,7 +6,7 @@ body{
 }
 .ref{
     text-decoration: none;
-    color:white;
+    color:red;
 
 }
 .header.opciones{
@@ -115,11 +115,6 @@ div.hide-d4{
 }
 .imgqr{
     width: 50%;
-}
-
-form {
-
-
 }
 
 input[type=text], input[type=password] {
